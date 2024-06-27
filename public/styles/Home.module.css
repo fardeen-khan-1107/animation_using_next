@@ -184,7 +184,7 @@
 
 @media screen and (max-width: 980px) {
   .banner .content h1 {
-    margin-bottom: 90px;
+    margin-bottom: 250px;
     z-index: 1000;
     font-size: 5em;
   }
@@ -203,7 +203,7 @@
     transform: scale(1.1) rotateY(calc((var(--position) - 1) * (360deg / var(--quantity)))) translateZ(180px);
   }
   .banner .content h1 {
-    margin-bottom: 180px;
+    margin-bottom: 350px;
     z-index: 1000;
     font-size: 2em;
   }
@@ -230,7 +230,7 @@
   }
   .banner .content h1 { 
     font-size: 1em;
-    margin-bottom: 290px;
+    margin-bottom: 480px;
   }
 }
 
